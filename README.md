@@ -1,2 +1,5 @@
 # Game-Guess-The-Word
-This is a simple interactive game which allows user to guess the word. if user won't be able to guess the words then the game will change it's images and the background according to the situation.
+This is a simple interactive game which allows users to guess a random word. If the user is not able to guess the word then the game will change it's images and the background according to the situation. 
+
+Built using:
+Java Swing
